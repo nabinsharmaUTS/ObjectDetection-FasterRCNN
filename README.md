@@ -236,5 +236,3 @@ python train.py --model fasterrcnn_resnet50_fpn_v2
  'fasterrcnn_squeezenet1_1']
 ```
 
-
-## This repository is updated by Gitarth Vaishnav after looking at a lot of resources
